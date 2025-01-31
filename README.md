@@ -11,3 +11,6 @@ Requirements:
 TODO:
 - better UI
 - support for more models
+
+UPDATE LOG:
+- added better UI (new answers don't erase old ones now :D)
